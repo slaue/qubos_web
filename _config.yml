@@ -44,10 +44,3 @@ defaults:
       type: pages
     values:
       layout: single
-
-# Navigation (Header) Pages
-header_pages:
-  - _pages/about.md
-  - _pages/index.md
-#  - _pages/results.md
-#  - _pages/contact.md
