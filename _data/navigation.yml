@@ -1,5 +1,9 @@
 main:
-  - title: "Index"
-    url: /index/
-  - title: "About"
-    url: /about/
+  - title: "Instances"
+    url: /instances/
+  - title: "Methodology"
+    url: /methodology/
+  - title: "Results"
+    url: /results/
+- title: "Contact Us"
+    url: /contact/
