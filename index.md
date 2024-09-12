@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "QUBO Solver Benchmark"
 ---
 
