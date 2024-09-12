@@ -1,5 +1,6 @@
 ---
 title: "QUBO Solver Benchmark"
+layout: single
 ---
 
 ## Welcome to the QUBO Solver Benchmark Project
