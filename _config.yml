@@ -31,11 +31,11 @@ plugins:
   - jekyll-include-cache
 
 # Footer Links
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#footer:
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
 
 # Defaults for pages
 defaults:
