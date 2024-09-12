@@ -17,7 +17,7 @@ title: QUBO Solver Benchmark
 email:
 description: >- 
   Comparing classical and quantum solvers for QUBO problems.
-github_username: username
+github_username: slaue
 minimal_mistakes_skin: default
 
 # Build settings
