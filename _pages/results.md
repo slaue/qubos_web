@@ -7,8 +7,6 @@ permalink: /results/
 
 Here you will find our detailed benchmark results comparing classical and quantum solvers on various QUBO problems.
 
-[Download the dataset](#)
-
 #### Performance Comparison
 - Speed
 - Accuracy
