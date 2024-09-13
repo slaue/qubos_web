@@ -1,8 +1,8 @@
 main:
-  - title: "Instances"
-    url: /instances/
   - title: "Methodology"
     url: /methodology/
+  - title: "Instances"
+    url: /instances/
   - title: "Results"
     url: /results/
   - title: "Team"

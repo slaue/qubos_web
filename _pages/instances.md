@@ -4,13 +4,9 @@ title: "Instances"
 ---
 
 
-### Extensive Collection of QUBO Instances
-
-As part of the **Quantum vs Classical Solvers** project, we have created and collected an extensive set of QUBO problem instances from a variety of domains and applications. These instances are intended to provide a broad benchmarking environment for comparing the performance of classical and quantum solvers on real-world and theoretical problems.
-
 ### Categories of QUBO Instances
 
-We have organized the QUBO instances into several categories:
+We have collected a total of more than 3,000 QUBO instances. They are organized into several categories:
 
 - **Portfolio Optimization:** Financial optimization problems involving risk and return.
 - **Max-Cut Problems:** Graph-based optimization problems commonly used in computer science and telecommunications.
@@ -19,7 +15,7 @@ We have organized the QUBO instances into several categories:
 
 ### Download QUBO Instances
 
-You can download the full set of QUBO instances [here](https://github.com/slaue).
+You can download the full set of QUBO instances from this [github repository](https://github.com/slaue).
 
 ### Contributing to Our Collection
 
