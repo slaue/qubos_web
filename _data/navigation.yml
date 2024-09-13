@@ -1,6 +1,6 @@
 main:
-  - title: "Methodology"
-    url: /methodology/
+  - title: "Solvers"
+    url: /solvers/
   - title: "Instances"
     url: /instances/
   - title: "Results"
