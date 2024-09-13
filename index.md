@@ -1,7 +1,10 @@
 ---
-title: "Quantum vs Classical Solvers: Benchmarking QUBO Performance"
+title: "QUBO Solver Benchmark"
 layout: single
 ---
+
+##  Quantum vs Classical Solvers: Benchmarking QUBO Performance
+
 
 This project is dedicated to benchmarking and comparing classical and quantum solvers for Quadratic Unconstrained Binary Optimization (QUBO) problems.
 
