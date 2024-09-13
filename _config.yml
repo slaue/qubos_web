@@ -1,5 +1,5 @@
 # Site settings
-title: "Quantum vs Classical Solvers: Benchmarking QUBO Performance"
+title: "QUBO Solver Benchmark"
 description: "Comparing classical and quantum solvers for QUBO problems."
 baseurl: "" 
 url: "https://slaue.github.io/qubos_web"
