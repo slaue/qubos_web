@@ -1,6 +1,6 @@
 ---
-layout: page
 title: "Results"
+permalink: /results/
 ---
 
 ### Benchmark Results

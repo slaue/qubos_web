@@ -1,6 +1,6 @@
 ---
-layout: page
 title: "Team"
+permalink: /team/
 ---
 
 ### Project Team
