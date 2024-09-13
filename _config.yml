@@ -1,27 +1,18 @@
 # Site settings
-title: QUBO Solver Benchmark
+title: "Quantum vs Classical Solvers: Benchmarking QUBO Performance"
 description: "Comparing classical and quantum solvers for QUBO problems."
-github_username: slaue
+baseurl: "" 
+url: "https://slaue.github.io/qubos_web"
 minimal_mistakes_skin: default
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# permalink: /:title/
 
 # Include pages folder
 include:
   - _pages
 
-# Exclude from processing (Optional, if needed)
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (Only those you need)
 plugins:
@@ -30,12 +21,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Footer Links
-#footer:
-#  links:
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
 
 footer:
   include: custom
