@@ -15,7 +15,7 @@ We have collected a total of more than 3,000 QUBO instances. They are organized 
 
 ### Download QUBO Instances
 
-You can download the full set of QUBO instances from this [github repository](https://github.com/slaue).
+You can download the full set of QUBO instances from this [github repository](https://github.com/ml-uhh/qubo-benchmark).
 
 ### Contributing to Our Collection
 
