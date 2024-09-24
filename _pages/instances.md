@@ -6,7 +6,7 @@ title: "Instances"
 
 ### Categories of QUBO Instances
 
-We have collected a total of more than 3,000 QUBO instances. They are organized into several categories:
+We have collected a total of more than 12,000 QUBO instances. They are organized into several categories:
 
 - **Portfolio Optimization:** Financial optimization problems involving risk and return.
 - **Max-Cut Problems:** Graph-based optimization problems commonly used in computer science and telecommunications.
