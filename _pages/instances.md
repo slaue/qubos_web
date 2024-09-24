@@ -11,6 +11,7 @@ We have collected a total of more than 12,000 QUBO instances. They are organized
 - **Portfolio Optimization:** Financial optimization problems involving risk and return.
 - **Max-Cut Problems:** Graph-based optimization problems commonly used in computer science and telecommunications.
 - **Scheduling Problems:** Real-world scheduling challenges, including task assignment and time-tabling.
+- **Hard Instances:** Hard QUBO instances from the QPLIB library.
 - **Randomly Generated QUBOs:** Random instances generated for stress-testing solvers under varied conditions.
 
 ### Download QUBO Instances
