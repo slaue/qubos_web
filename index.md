@@ -6,8 +6,11 @@ layout: single
 ##  Quantum vs Classical Solvers: Benchmarking QUBO Performance
 
 Quadratic Unconstrained Binary Optimization (QUBO) problems describe decisions
-with binary variables. A solver searches for the assignment with the lowest
-objective value.
+with binary variables. For a matrix **Q**, the problem is
+
+> **minimize xᵀQx over x ∈ {0,1}ⁿ.**
+
+A solver searches for the binary vector **x** with the lowest objective value.
 
 This project compares recorded results from a **D-Wave Advantage quantum
 annealer** with **classical solvers** on the same QUBO instances. The benchmark
