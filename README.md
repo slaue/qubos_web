@@ -1,3 +1,7 @@
 # QUBO Solver Benchmark
 
-This project is dedicated to benchmarking and comparing classical and quantum solvers for Quadratic Unconstrained Binary Optimization (QUBO) problems. You can find the content of the website here.
+Source for [qubos.org](https://www.qubos.org), a concise overview of the QUBO
+benchmark maintained at
+[ml-uhh/qubo-benchmark](https://github.com/ml-uhh/qubo-benchmark). The benchmark
+repository contains the instances, solver implementations, and recorded
+results.
