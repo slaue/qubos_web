@@ -1,8 +1,8 @@
 # Site settings
 title: "QUBO Solver Benchmark"
-description: "Comparing classical and quantum solvers for QUBO problems."
+description: "Benchmark instances, solvers, and results for classical and D-Wave QUBO optimization."
 baseurl: "" 
-url: "https://slaue.github.io/qubos_web"
+url: "https://www.qubos.org"
 minimal_mistakes_skin: default
 
 # Build settings
