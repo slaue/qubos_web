@@ -21,13 +21,14 @@ The benchmark contains 1,912 evaluated QUBO instances in four families:
 The complete instance collection is available in the
 [QUBO benchmark repository](https://github.com/ml-uhh/qubo-benchmark/tree/main/instances).
 
-### Sources and Licensing
+### Sources, Reproducibility, and Licensing
 
 The S28/QAC family follows the generator and reference data published in the
 associated [Harvard Dataverse dataset](https://doi.org/10.7910/DVN/PCLEHG).
-The repository's [MIT License](https://github.com/ml-uhh/qubo-benchmark/blob/main/LICENSE)
-covers the software. Third-party benchmark data remain subject to their
-original terms.
+For reproducibility, the benchmark repository includes the instances, solver
+code, run instructions, and recorded results used in the comparisons. Its
+[MIT License](https://github.com/ml-uhh/qubo-benchmark/blob/main/LICENSE) covers
+the software; third-party datasets retain their original terms.
 
 ### Contributing to Our Collection
 
